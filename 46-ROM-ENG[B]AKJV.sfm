@@ -1,10 +1,11 @@
-\id ROM ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id ROM ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Romans
 \toc1 Romans
-\toc2 Rom
-\mt1  The Letter of Paul the Apostle to the Romans
+\toc3 Rom
+\mt7 The Letter of Paul the Apostle to the
+\mt1 Romans
 \c 1
 \p
 \v 1 Paul, a servant of Jesus Christ, called to be an apostle, separated to the gospel of God,
@@ -887,3 +888,4 @@
 \v 26 But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 \p
 \v 27 To God only wise, be glory through Jesus Christ for ever. Amen.
+\mte9 ~

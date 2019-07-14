@@ -1,9 +1,11 @@
-\id 1SA ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 1SA ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 1 Samuel
 \toc1 1 Samuel
-\mt1 First Book of Samuel
+\toc3 1Sam
+\mt7 First Book of
+\mt1 Samuel
 \c 1
 \p
 \v 1 Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
@@ -1655,3 +1657,4 @@
 \v 12 All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there.
 \p
 \v 13 And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.
+\mte9 ~

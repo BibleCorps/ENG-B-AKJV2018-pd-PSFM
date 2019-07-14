@@ -1,9 +1,11 @@
-\id EZK ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id EZK ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Ezekiel
 \toc1 Ezekiel
-\mt1 The Book of the Prophet Ezekiel
+\toc3 Ezek
+\mt7 The Book of the Prophet
+\mt1 Ezekiel
 \c 1
 \p
 \v 1 Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
@@ -2598,3 +2600,4 @@
 \v 34 At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
 \p
 \v 35 It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there.
+\mte9 ~

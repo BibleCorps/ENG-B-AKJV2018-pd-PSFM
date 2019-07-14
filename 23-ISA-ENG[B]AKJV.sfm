@@ -1,9 +1,11 @@
-\id ISA ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id ISA ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Isaiah
 \toc1 Isaiah
-\mt1 The Book of the Prophet Isaiah
+\toc3 Isa
+\mt7 The Book of the Prophet
+\mt1 Isaiah
 \c 1
 \p
 \v 1 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
@@ -2654,3 +2656,4 @@
 \v 23 And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, said the LORD.
 \p
 \v 24 And they shall go forth, and look on the carcasses of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring to all flesh.
+\mte9 ~

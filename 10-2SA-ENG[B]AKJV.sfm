@@ -1,9 +1,11 @@
-\id 2SA ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 2SA ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 2 Samuel
 \toc1 2 Samuel
-\mt1 The Second Book of Samuel
+\toc3 2Sam
+\mt7 The Second Book of
+\mt1 Samuel
 \c 1
 \p
 \v 1 Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag;
@@ -1418,3 +1420,4 @@
 \v 24 And the king said to Araunah, No; but I will surely buy it of you at a price: neither will I offer burnt offerings to the LORD my God of that which does cost me nothing. So David bought the threshing floor and the oxen for fifty shekels of silver.
 \p
 \v 25 And David built there an altar to the LORD, and offered burnt offerings and peace offerings. So the LORD was entreated for the land, and the plague was stayed from Israel.
+\mte9 ~

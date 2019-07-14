@@ -1,10 +1,11 @@
-\id ACT ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id ACT ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Acts
 \toc1 Acts
-\toc2 Acts
-\mt1  The Acts of the Apostles
+\toc3 Acts
+\mt1 The Acts
+\mt7 of the Apostles
 \c 1
 \p
 \v 1 The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
@@ -2047,3 +2048,4 @@
 \v 30 And Paul dwelled two whole years in his own hired house, and received all that came in to him,
 \p
 \v 31 Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
+\mte9 ~

@@ -1,10 +1,11 @@
-\id 1PE ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 1PE ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 1 Peter
 \toc1 1 Peter
-\toc2 1Pet
-\mt1  The First Letter General of Peter
+\toc3 1Pet
+\mt7 The First Letter General of
+\mt1 Peter
 \c 1
 \p
 \v 1 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
@@ -220,3 +221,4 @@
 \v 13 The church that is at Babylon, elected together with you, salutes you; and so does Marcus my son.
 \p
 \v 14 Greet you one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.
+\mte9 ~

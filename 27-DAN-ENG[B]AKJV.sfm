@@ -1,9 +1,11 @@
-\id DAN ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id DAN ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Daniel
 \toc1 Daniel
-\mt1 The Book of Daniel
+\toc3 Dan
+\mt7 The Book of
+\mt1 Daniel
 \c 1
 \p
 \v 1 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon to Jerusalem, and besieged it.
@@ -730,3 +732,4 @@
 \v 12 Blessed is he that waits, and comes to the thousand three hundred and five and thirty days.
 \p
 \v 13 But go you your way till the end be: for you shall rest, and stand in your lot at the end of the days.
+\mte9 ~

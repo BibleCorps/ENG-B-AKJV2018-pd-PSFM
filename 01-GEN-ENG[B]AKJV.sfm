@@ -1,9 +1,11 @@
-\id GEN ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id GEN ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Genesis
 \toc1 Genesis
-\mt1 The First Book of Moses: Called Genesis
+\toc3 Gen
+\mt7 The First Book of Moses: Called
+\mt1 Genesis
 \c 1
 \p
 \v 1 In the beginning God created the heaven and the earth.
@@ -3120,3 +3122,4 @@
 \v 25 And Joseph took an oath of the children of Israel, saying, God will surely visit you, and you shall carry up my bones from hence.
 \p
 \v 26 So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
+\mte9 ~

@@ -1,9 +1,11 @@
-\id 2KI ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 2KI ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 2 Kings
 \toc1 2 Kings
-\mt1 The Second Book of the Kings
+\toc3 2Ki
+\mt7 The Second Book of the
+\mt1 Kings
 \c 1
 \p
 \v 1 Then Moab rebelled against Israel after the death of Ahab.
@@ -1467,3 +1469,4 @@
 \v 29 And changed his prison garments: and he did eat bread continually before him all the days of his life.
 \p
 \v 30 And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life.
+\mte9 ~

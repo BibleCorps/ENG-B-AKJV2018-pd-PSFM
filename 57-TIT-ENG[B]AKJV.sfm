@@ -1,10 +1,11 @@
-\id TIT ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id TIT ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Titus
 \toc1 Titus
-\toc2 Ti
-\mt1  The Letter of Paul the Apostle to Titus
+\toc3 Ti
+\mt7 The Letter of Paul the Apostle to
+\mt1 Titus
 \c 1
 \p
 \v 1 Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
@@ -100,3 +101,4 @@
 \v 14 And let our's also learn to maintain good works for necessary uses, that they be not unfruitful.
 \p
 \v 15 All that are with me salute you. Greet them that love us in the faith. Grace be with you all. Amen.
+\mte9 ~

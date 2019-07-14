@@ -1,9 +1,11 @@
-\id MAT ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id MAT ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Matthew
 \toc1 Matthew
-\mt1 The Gospel According to Matthew
+\toc3 Mt
+\mt7 The Gospel According to
+\mt1 Saint Matthew
 \c 1
 \p
 \v 1 The book of the generation of Jesus Christ, the son of David, the son of Abraham.
@@ -2174,3 +2176,4 @@
 \v 19 Go you therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 \p
 \v 20 Teaching them to observe all things whatever I have commanded you: and, see, I am with you always, even to the end of the world. Amen.
+\mte9 ~

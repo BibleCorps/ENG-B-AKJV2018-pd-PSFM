@@ -1,9 +1,11 @@
-\id NUM ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id NUM ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Numbers
 \toc1 Numbers
-\mt1 The Fourth Book of Moses: Called Numbers
+\toc3 Num
+\mt7 The Fourth Book of Moses: Called
+\mt1 Numbers
 \c 1
 \p
 \v 1 And the LORD spoke to Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
@@ -2616,3 +2618,4 @@
 \v 12 And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 \p
 \v 13 These are the commandments and the judgments, which the LORD commanded by the hand of Moses to the children of Israel in the plains of Moab by Jordan near Jericho.
+\mte9 ~

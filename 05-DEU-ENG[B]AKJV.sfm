@@ -1,9 +1,11 @@
-\id DEU ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id DEU ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Deuteronomy
 \toc1 Deuteronomy
-\mt1 The Fifth Book of Moses: Called Deuteronomy
+\toc3 Dt
+\mt7 The Fifth Book of Moses: Called
+\mt1 Deuteronomy
 \c 1
 \p
 \v 1 These be the words which Moses spoke to all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
@@ -1956,3 +1958,4 @@
 \v 11 In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 \p
 \v 12 And in all that mighty hand, and in all the great terror which Moses showed in the sight of all Israel.
+\mte9 ~

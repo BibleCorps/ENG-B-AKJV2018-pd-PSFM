@@ -1,10 +1,11 @@
-\id 2TI ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 2TI ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 2 Timothy
 \toc1 2 Timothy
-\toc2 2Th
-\mt1  The Second Letter of Paul the Apostle to the Thessalonians
+\toc3 2Th
+\mt7 The Second Letter of Paul the Apostle to the
+\mt1 Thessalonians
 \c 1
 \p
 \v 1 Paul, and Silvanus, and Timotheus, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:
@@ -102,3 +103,4 @@
 \v 17 The salutation of Paul with my own hand, which is the token in every letter: so I write.
 \p
 \v 18 The grace of our Lord Jesus Christ be with you all. Amen.
+\mte9 ~

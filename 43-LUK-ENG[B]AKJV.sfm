@@ -1,10 +1,11 @@
-\id LUK ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id LUK ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Luke
 \toc1 Luke
-\toc2 Lk
-\mt1  The Gospel According to Saint Luke
+\toc3 Lk
+\mt7 The Gospel According to
+\mt1 Saint Luke
 \c 1
 \p
 \v 1 For as much as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,
@@ -2331,3 +2332,4 @@
 \v 52 And they worshipped him, and returned to Jerusalem with great joy:
 \p
 \v 53 And were continually in the temple, praising and blessing God. Amen.
+\mte9 ~

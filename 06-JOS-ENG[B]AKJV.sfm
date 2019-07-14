@@ -1,9 +1,11 @@
-\id JOS ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id JOS ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Joshua
 \toc1 Joshua
-\mt1 The Book of Joshua
+\toc3 Josh
+\mt7 The Book of
+\mt1 Joshua
 \c 1
 \p
 \v 1 Now after the death of Moses the servant of the LORD it came to pass, that the LORD spoke to Joshua the son of Nun, Moses' minister, saying,
@@ -1344,3 +1346,4 @@
 \v 32 And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 \p
 \v 33 And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
+\mte9 ~

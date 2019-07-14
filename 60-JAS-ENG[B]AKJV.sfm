@@ -1,10 +1,11 @@
-\id JAS ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id JAS ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h James
 \toc1 James
-\toc2 Jas
-\mt1  The General Letter of James
+\toc3 Jas
+\mt7 The General Letter of
+\mt1 James
 \c 1
 \p
 \v 1 James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
@@ -226,3 +227,4 @@
 \v 19 Brothers, if any of you do err from the truth, and one convert him;
 \p
 \v 20 Let him know, that he which converts the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
+\mte9 ~

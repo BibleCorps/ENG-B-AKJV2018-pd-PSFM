@@ -1,10 +1,11 @@
-\id 1CO ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 1CO ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 1 Corinthians
 \toc1 1 Corinthians
-\toc2 1Cor
-\mt1  The First Letter of Paul the Apostle to the Corinthians
+\toc3 1Cor
+\mt1 The First Letter of Paul the Apostle to the
+\mt7 Corinthians
 \c 1
 \p
 \v 1 Paul called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
@@ -895,3 +896,4 @@
 \v 23 The grace of our Lord Jesus Christ be with you.
 \p
 \v 24 My love be with you all in Christ Jesus. Amen.
+\mte9 ~

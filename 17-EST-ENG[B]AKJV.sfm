@@ -1,9 +1,11 @@
-\id EST ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id EST ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Esther (Hebrew)
 \toc1 Esther (Hebrew)
-\mt1 The Book of Esther
+\toc3 Est
+\mt7 The Book of
+\mt1 Esther
 \c 1
 \p
 \v 1 Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even to Ethiopia, over an hundred and seven and twenty provinces:)
@@ -348,3 +350,4 @@
 \v 2 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
 \p
 \v 3 For Mordecai the Jew was next to king Ahasuerus, and great among the Jews, and accepted of the multitude of his brothers, seeking the wealth of his people, and speaking peace to all his seed.
+\mte9 ~

@@ -1,9 +1,11 @@
-\id RUT ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id RUT ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Ruth
 \toc1 Ruth
-\mt1 The Book of Ruth
+\toc3 Ruth
+\mt7 The Book of
+\mt1 Ruth
 \c 1
 \p
 \v 1 Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
@@ -178,3 +180,4 @@
 \v 21 And Salmon begat Boaz, and Boaz begat Obed,
 \p
 \v 22 And Obed begat Jesse, and Jesse begat David.
+\mte9 ~

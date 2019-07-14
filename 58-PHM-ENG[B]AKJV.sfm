@@ -1,10 +1,11 @@
-\id PHM ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id PHM ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Philemon
 \toc1 Philemon
-\toc2 Phile
-\mt1  The Letter of Paul the Apostle to Philemon
+\toc3 Phile
+\mt7 The Letter of Paul the Apostle to
+\mt1 Philemon
 \c 1
 \p
 \v 1 Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon our dearly beloved, and fellow laborer,
@@ -56,3 +57,4 @@
 \v 24 Marcus, Aristarchus, Demas, Lucas, my fellow laborers.
 \p
 \v 25 The grace of our Lord Jesus Christ be with your spirit. Amen.
+\mte9 ~

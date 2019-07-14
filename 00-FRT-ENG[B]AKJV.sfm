@@ -1,24 +1,50 @@
-\id FRT ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id FRT ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
-\h Title
-\toc1 Title
-\mt1 American King James Version
-\mt1 American King James Version
-\mt2 Presented by True Grace Ministries
+\h ~
+\toc2 Title page
+\toc3 Title
+\ib7
+\imt1 The HOLY BIBLE
+\imt3 Old and New Testaments
+\ib3
+\imt5 American King James Version
+\ib7
+\imt7 Be The Light Ministries
 \periph Publication Data
-\p This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. I have taken care to change nothing doctrinally, but to simply update the spelling and vocabulary. I have not changed the grammar because that could alter the doctrine.
-\p I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.
-\p Michael Peter (Stone) Engelbrite
-\p You may use it in any manner you wish: copy it, sell it, modify it, etc. You can't copyright it or prevent others from using it. A special thanks to Tye Rausch and Eve Engelbrite who helped tremendously on this project. You can't claim that you created it, because you didn't.
-\p You can obtain a free copy of the American King James in electronic format at the following locations
-\p The Sword Project - www.CrossWire.org - with reader software and other translations.
-\p OnLine Bible - http://www.ccel.org/olb/ - Translation, http://www.OnlineBible.org reader software.
+\h ~
+\toc2 Rights Information
+\toc3 Rights
+\ib7
+\is4 The Holy Bible: American King James Version
+\im was produced by Peter Engelbrite with assistance from Tye Rausch and Eve Engelbrite.
+\ib
+\imi I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.
+\imi \sig Michael Peter Engelbrite\sig*
+\ib
+\imi You may use it in any manner you wish: copy it, sell it, modify it, etc.
+\imi You can't copyright it or prevent others from using it, nor can you claim that you created it.
+\imi Please be encouraged to share it with others.
 \periph Contents
-\mt2 Old Testament
-\mt2 New Testament
-\periph Promotional Page
-\p The Revised Young's Literal Translation, a modern English update of Young's Literal Translation of the New Testament can be found by Clicking Here.
-\p An online version of the original 1898 Young's Literal Translation of the Holy Bible, containing the Old and New Testaments, can be found by Clicking Here.
-\p The King James Clarified (KJC) New Testament, which is theologically identical to the authoritative King James Bible (KJV), but it is easier to understand because the language has been somewhat updated to reflect current usage, can be found by Clicking Here.
-\p A modern English update of the American Standard Version of 1901, The World English Bible, which also contains the Old Testament, can be found by Clicking Here.
+\toc2 Table of Contents
+\toc3 Contents
+\ib7
+\imt3 The Order of the Books of the Old and New Testament
+\periph Preface
+\imt3 Introduction to the American King James Version
+\im This is a new translation of the Bible, based on the original King James Version. It is a simple word for word update from the King James English. The American King James Bible replaces archaic Middle English words with modern English words without changing the grammar or sentence structure of the King James version. Care has been taken to change nothing doctrinally, but to simply update the spelling and vocabulary. Grammar has not been changed because that could alter the doctrine.
+\ip A special thanks to Tye Rausch and Eve Engelbrite who helped tremendously on this project.
+\ip I am hereby putting the American King James version of the Bible into the public domain on November 8, 1999.
+\ip You may use it in any manner you wish:
+\ipi copy it, sell it, modify it, etc.
+\ip You can't copyright it or prevent others from using it. You can't claim that you created it, because you didn't.
+\ib
+\ip \sig Michael Peter (Stone) Engelbrite\sig*
+\periph Testament Page
+\h ~
+\toc0 Old Testament
+\ib7
+\imt3 Old Testamant
+\periph Blank Page after NT title page.
+\ib7
+\mte9 ~

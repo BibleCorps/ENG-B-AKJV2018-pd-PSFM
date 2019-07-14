@@ -1,10 +1,11 @@
-\id 1TI ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 1TI ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
-\h 1 Timothy 
-\toc1 1 Timothy 
-\toc2 1Tim
-\mt1  The First Letter of Paul the Apostle to Timothy
+\h 1 Timothy
+\toc1 1 Timothy
+\toc3 1Tim
+\mt7 The First Letter of Paul the Apostle to
+\mt1 Timothy
 \c 1
 \p
 \v 1 Paul, an apostle of Jesus Christ by the commandment of God our Savior, and Lord Jesus Christ, which is our hope;
@@ -237,3 +238,4 @@
 \v 20 O Timothy, keep that which is committed to your trust, avoiding profane and vain babblings, and oppositions of science falsely so called:
 \p
 \v 21 Which some professing have erred concerning the faith. Grace be with you. Amen.
+\mte9 ~

@@ -1,9 +1,11 @@
-\id EXO ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id EXO ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Exodus
 \toc1 Exodus
-\mt1 The Second Book of Moses: Called Exodus
+\toc3 Ex
+\mt7 The Second Book of Moses: Called
+\mt1 Exodus
 \c 1
 \p
 \v 1 Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
@@ -2470,3 +2472,4 @@
 \v 37 But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 \p
 \v 38 For the cloud of the LORD was on the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
+\mte9 ~

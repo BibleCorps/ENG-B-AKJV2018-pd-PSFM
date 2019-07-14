@@ -1,10 +1,11 @@
-\id JHN ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id JHN ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h John
 \toc1 John
-\toc2 Jn
-\mt1  The Gospel According to Saint John
+\toc3 Jn
+\mt7 The Gospel According to
+\mt1 Saint John
 \c 1
 \p
 \v 1 In the beginning was the Word, and the Word was with God, and the Word was God.
@@ -1784,3 +1785,4 @@
 \v 24 This is the disciple which testifies of these things, and wrote these things: and we know that his testimony is true.
 \p
 \v 25 And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
+\mte9 ~

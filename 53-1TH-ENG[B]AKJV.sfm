@@ -1,10 +1,11 @@
-\id 1TH ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 1TH ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 1 Thessalonians
 \toc1 1 Thessalonians
-\toc2 1Th
-\mt1  The First Letter of Paul the Apostle to the Thessalonians
+\toc3 1Th
+\mt7 The First Letter of Paul the Apostle to the
+\mt1 Thessalonians
 \c 1
 \p
 \v 1 Paul, and Silvanus, and Timotheus, to the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be to you, and peace, from God our Father, and the Lord Jesus Christ.
@@ -188,3 +189,4 @@
 \v 27 I charge you by the Lord that this letter be read to all the holy brothers.
 \p
 \v 28 The grace of our Lord Jesus Christ be with you. Amen.
+\mte9 ~

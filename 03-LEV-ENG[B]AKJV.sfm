@@ -1,9 +1,11 @@
-\id LEV ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id LEV ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Leviticus
 \toc1 Leviticus
-\mt1 The Third Book of Moses: Called Leviticus
+\toc3 Lev
+\mt7 The Third Book of Moses: Called
+\mt1 Leviticus
 \c 1
 \p
 \v 1 And the LORD called to Moses, and spoke to him out of the tabernacle of the congregation, saying,
@@ -1749,3 +1751,4 @@
 \v 33 He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
 \p
 \v 34 These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
+\mte9 ~

@@ -1,10 +1,11 @@
-\id EPH ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id EPH ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Ephesians
 \toc1 Ephesians
-\toc2 Eph
-\mt1  The Letter of Paul the Apostle to the Ephesians
+\toc3 Eph
+\mt7 The Letter of Paul the Apostle to the
+\mt1 Ephesians
 \c 1
 \p
 \v 1 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
@@ -321,3 +322,4 @@
 \v 23 Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.
 \p
 \v 24 Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
+\mte9 ~

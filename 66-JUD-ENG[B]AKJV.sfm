@@ -1,10 +1,11 @@
-\id JUD ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id JUD ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Jude
 \toc1 Jude
-\toc2 Jude
-\mt1  The General Letter of Jude
+\toc3 Jude
+\mt7 The General Letter of
+\mt1 Jude
 \c 1
 \p
 \v 1 Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
@@ -56,3 +57,4 @@
 \v 24 Now to him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,
 \p
 \v 25 To the only wise God our Savior, be glory and majesty, dominion and power, both now and ever. Amen.
+\mte9 ~

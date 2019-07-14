@@ -1,9 +1,11 @@
-\id 1KI ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id 1KI ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h 1 Kings
 \toc1 1 Kings
-\mt1 The First Book of the Kings
+\toc3 1Ki
+\mt7 The First Book of the
+\mt1 Kings
 \c 1
 \p
 \v 1 Now king David was old and stricken in years; and they covered him with clothes, but he got no heat.
@@ -1658,3 +1660,4 @@
 \v 52 And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 \p
 \v 53 For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
+\mte9 ~

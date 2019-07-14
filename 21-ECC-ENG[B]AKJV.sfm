@@ -1,8 +1,9 @@
-\id ECC ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id ECC ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Ecclesiastes
 \toc1 Ecclesiastes
+\toc3 Eccl
 \mt1 Ecclesiastes
 \c 1
 \p
@@ -460,3 +461,4 @@
 \v 13 Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 \p
 \v 14 For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
+\mte9 ~

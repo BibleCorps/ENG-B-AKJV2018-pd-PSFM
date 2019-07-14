@@ -1,9 +1,11 @@
-\id PSA ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id PSA ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Psalms
 \toc1 Psalms
-\mt1 The Book of Psalms
+\toc3 Ps
+\mt7 The Book of
+\mt1 Psalms
 \c 1
 \p
 \v 1 Blessed is the man that walks not in the counsel of the ungodly, nor stands in the way of sinners, nor sits in the seat of the scornful.
@@ -5076,3 +5078,4 @@
 \v 5 Praise him on the loud cymbals: praise him on the high sounding cymbals.
 \p
 \v 6 Let every thing that has breath praise the LORD. Praise you the LORD.
+\mte9 ~

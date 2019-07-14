@@ -1,10 +1,11 @@
-\id COL ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id COL ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Colossians
 \toc1 Colossians
-\toc2 Col
-\mt1  The Letter of Paul the Apostle to the Colossians
+\toc3 Col
+\mt7 The Letter of Paul the Apostle to the
+\mt1 Colossians
 \c 1
 \p
 \v 1 Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
@@ -199,3 +200,4 @@
 \v 17 And say to Archippus, Take heed to the ministry which you have received in the Lord, that you fulfill it.
 \p
 \v 18 The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.
+\mte9 ~

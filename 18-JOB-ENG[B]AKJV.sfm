@@ -1,9 +1,11 @@
-\id JOB ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id JOB ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Job
 \toc1 Job
-\mt1 The Book of Job
+\toc3 Job
+\mt7 The Book of
+\mt1 Job
 \c 1
 \p
 \v 1 There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
@@ -2186,3 +2188,4 @@
 \v 16 After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.
 \p
 \v 17 So Job died, being old and full of days.
+\mte9 ~

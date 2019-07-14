@@ -1,9 +1,11 @@
-\id LAM ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id LAM ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Lamentations
 \toc1 Lamentations
-\mt1 The Lamentations of Jeremiah
+\toc3 Lam
+\mt1 The Lamentations
+\mt7 of Jeremiah
 \c 1
 \p
 \v 1 How does the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!
@@ -317,3 +319,4 @@
 \v 21 Turn you us to you, O LORD, and we shall be turned; renew our days as of old.
 \p
 \v 22 But you have utterly rejected us; you are very wroth against us.
+\mte9 ~

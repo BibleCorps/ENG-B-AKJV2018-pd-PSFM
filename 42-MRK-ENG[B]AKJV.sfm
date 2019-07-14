@@ -1,10 +1,11 @@
-\id MRK ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id MRK ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Mark
 \toc1 Mark
-\toc2 Mk
-\mt1  The Gospel According to Saint Mark
+\toc3 Mk
+\mt7 The Gospel According to
+\mt1 Saint Mark
 \c 1
 \p
 \v 1 The beginning of the gospel of Jesus Christ, the Son of God;
@@ -1377,3 +1378,4 @@
 \v 19 So then after the Lord had spoken to them, he was received up into heaven, and sat on the right hand of God.
 \p
 \v 20 And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.
+\mte9 ~

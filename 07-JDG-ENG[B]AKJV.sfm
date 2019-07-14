@@ -1,9 +1,11 @@
-\id JDG ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id JDG ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Judges
 \toc1 Judges
-\mt1 The Book of Judges
+\toc3 Jud
+\mt7 The Book of
+\mt1 Judges
 \c 1
 \p
 \v 1 Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
@@ -1261,3 +1263,4 @@
 \v 24 And the children of Israel departed there at that time, every man to his tribe and to his family, and they went out from there every man to his inheritance.
 \p
 \v 25 In those days there was no king in Israel: every man did that which was right in his own eyes.
+\mte9 ~

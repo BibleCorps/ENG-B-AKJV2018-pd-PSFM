@@ -1,10 +1,11 @@
-\id HEB ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id HEB ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Hebrews
 \toc1 Hebrews
-\toc2 Heb
-\mt1  The Letter of Paul the Apostle to the Hebrews
+\toc3 Heb
+\mt7 The Letter of Paul the Apostle to the
+\mt1 Hebrews
 \c 1
 \p
 \v 1 God, who at sundry times and in divers manners spoke in time past to the fathers by the prophets,
@@ -624,3 +625,4 @@
 \v 24 Salute all them that have the rule over you, and all the saints. They of Italy salute you.
 \p
 \v 25 Grace be with you all. Amen.
+\mte9 ~

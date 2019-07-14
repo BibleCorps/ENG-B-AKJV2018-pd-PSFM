@@ -1,10 +1,11 @@
-\id REV ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id REV ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Revelation
 \toc1 Revelation
-\toc2 Rev
-\mt1  The Revelation of Saint John the Devine
+\toc3 Rev
+\mt1 The Revelation
+\mt7 of Saint John the Devine
 \c 1
 \p
 \v 1 The Revelation of Jesus Christ, which God gave to him, to show to his servants things which must shortly come to pass; and he sent and signified it by his angel to his servant John:
@@ -835,3 +836,4 @@
 \v 20 He which testifies these things said, Surely I come quickly. Amen. Even so, come, Lord Jesus.
 \p
 \v 21 The grace of our Lord Jesus Christ be with you all. Amen.
+\mte9 ~

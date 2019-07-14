@@ -1,9 +1,11 @@
-\id NEH ENG - American King James Version of the Bible. Public Domain on November 8, 1999
+\id NEH ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999
 \ide UTF-8
 \rem 20160910
 \h Nehemiah
 \toc1 Nehemiah
-\mt1 The Book of Nehemiah
+\toc3 Neh
+\mt7 The Book of
+\mt1 Nehemiah
 \c 1
 \p
 \v 1 The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
@@ -829,3 +831,4 @@
 \v 30 Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;
 \p
 \v 31 And for the wood offering, at times appointed, and for the first fruits. Remember me, O my God, for good.
+\mte9 ~
