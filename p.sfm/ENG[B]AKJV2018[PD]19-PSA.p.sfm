@@ -1,6 +1,6 @@
 \id PSA ENG (p.sfm) - American King James Version of the Bible. Public Domain on November 8, 1999. †
 \ide UTF-8
-rem Version 2020.0214
+\rem Version 2023.1223
 \h Psalm
 \toc1 Psalms
 \toc3 Ps
@@ -5013,7 +5013,7 @@ rem Version 2020.0214
 \v 127 Therefore I love your commandments above gold; yes, above fine gold.
 \q0
 \v 128 Therefore I esteem all your precepts concerning all things to be right; and I hate every false way.
-129 PE.
+\qa PE.
 \q0
 \v 129 Your testimonies are wonderful: therefore does my soul keep them.
 \q0
@@ -5081,7 +5081,7 @@ rem Version 2020.0214
 \v 159 Consider how I love your precepts: quicken me, O LORD, according to your loving kindness.
 \q0
 \v 160 Your word is true from the beginning: and every one of your righteous judgments endures for ever.
-161 SCHIN.
+\qa SCHIN.
 \q0
 \v 161 Princes have persecuted me without a cause: but my heart stands in awe of your word.
 \q0
@@ -5098,7 +5098,7 @@ rem Version 2020.0214
 \v 167 My soul has kept your testimonies; and I love them exceedingly.
 \q0
 \v 168 I have kept your precepts and your testimonies: for all my ways are before you.
-169 TAU.
+\qa TAU.
 \q0
 \v 169 Let my cry come near before you, O LORD: give me understanding according to your word.
 \q0
@@ -5711,7 +5711,7 @@ rem Version 2020.0214
 \cd 1 David blesses God for his mercy both to him and to man. 5 He prays that God would powerfully deliver him from his enemies, 9 He promises to praise God. 11 He prays for the happy state of the kingdom.
 \d ¶ A Psalm of David.
 \q0
-\v 1 Blessed be the LORD my strength which teaches my hands to war, and my fingers to fight:
+\v 1 Blessed be the LORD my strength, which teaches my hands to war, and my fingers to fight:
 \q0
 \v 2 My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdues my people under me.
 \b
