@@ -17,3 +17,16 @@ Please be encouraged to share it with others.
 **_Michael Peter Engelbrite_**
 
 The complete print-ready PDF has been moved from github to the [Internet Archive](https://archive.org/details/eng-b-akjv-2020-print-text/page/6/mode/2up?view=theater)
+
+Roadmap for AKJV | Status
+-----------------|--------
+Restore "pilcrows" | Done
+Convert to paragaph Bible | Done
+Restore "Chapter headings" | Done
+Restore "passage references" | 0
+Restore "added words" | 0 
+Restore "Alternate meanings/readings" | 0
+Restore "Difficult hebraisms/Greekisms" | 0
+Restore "Page Summaries" | 0
+Restore "Geneaologies" | 0 
+Include Maps | .3
